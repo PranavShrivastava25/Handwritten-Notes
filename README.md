@@ -1,13 +1,13 @@
 # Handwritten-Notes
 Here is the collection of my  handwritten notes for:
 
-DSA+OOPS
+1.DSA+OOPS
 
-JAVA
+2.JAVA
 
-PYTHON
+3.PYTHON
 
-C
+4.C
 
-HTML
+5.HTML
 
